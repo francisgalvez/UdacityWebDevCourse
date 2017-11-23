@@ -1,0 +1,20 @@
+You've learned a lot about web development so far.
+I want you to take a moment to write down your thoughts about web development here.
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+ 
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+---
+
+Your response goes here!
+Hello!! I have to say that I have learned so many skills in a very short period of time. I had some knowledges about programming but not about Web Development and this course is being very useful so far! I've learned to label and create different types of headings and paragraphs, to put a link or an image in a web page or to create and define figures. 
+I have found some things more difficult than another ones, but with the helping tools (like the MDN web page) and the lessons I could search and find the answers to my troubles.
+Thank you!
