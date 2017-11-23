@@ -1,0 +1,38 @@
+#all{
+  width: 330px;
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  border-radius: 10px;
+  padding-left: 25px;
+  padding-bottom: 16px;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  color: white;
+  background-color: teal;
+}
+
+#name{
+  font-size: 28px;
+  height: 25px;
+}
+
+#image{
+  padding-bottom: 12px;
+}
+
+#information{
+  width:290px;
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+
+#interesting_fact{
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
